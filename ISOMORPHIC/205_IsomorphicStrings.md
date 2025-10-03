@@ -3,8 +3,7 @@
 **Status:** Solved  
 **Difficulty:** Easy  
 
-**Topics:** [Add topics here]  
-**Companies:** [Add companies here]  
+
 
 ## Problem Statement
 Given two strings `s` and `t`, determine if they are isomorphic.  
