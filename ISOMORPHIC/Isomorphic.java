@@ -1,3 +1,5 @@
+package ISOMORPHIC;
+
 import java.util.*;
 
 class Isomorphic {
